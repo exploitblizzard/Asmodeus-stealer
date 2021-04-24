@@ -20,9 +20,9 @@
 <p align="center"> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="dropbox" width="40" height="40"/> </a> <a href="https://www.dropbox.com/developers/documentation/http/documentation" target="_blank"> <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/dropbox.svg" alt="csharp" width="40" height="40"/> </a> </p>
 
 # 💭 Must Read
-The release containing source code and binary is password protected, to get the password and usage details such as changing dropbox-Api, discord webhooks, etc. Dm me on discord or telegram.
+<b>The release containing source code and binary is password protected, to get the password and usage details. Dm me on discord or telegram.</b>
 <br> </br>
-<i><b> I have not included the complete project including all packages, because of plagiarism and script-kiddies. </b></i> 
+<i><b> I have not included the complete project, because of plagiarism and script-kiddies. </b></i> 
 
 ***
 
