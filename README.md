@@ -22,7 +22,7 @@
 # 💭 Must Read
 The release containing source code and binary is password protected, to get the password and usage details such as changing dropbox-Api, discord webhooks, etc. Dm me on discord or telegram.
 <br> </br>
-<i><b> From now, i will not put the source code or compiled binaries directly because of plagiarism and script-kiddies. </b></i> 
+<i><b> I have not included the complete project including all packages, because of plagiarism and script-kiddies. </b></i> 
 
 ***
 
