@@ -37,8 +37,8 @@ By using this software, you automatically agree to the above.
 # ⭐ Features
 * Steal system info
 * Telegram sessions - hijack victim's telegram account
-* Chromium based browser passwords
-* Gecko based browsers(firefox) passwords
+* Chromium based browsers password
+* Gecko based browsers(firefox) password
 * Discord Tokens
 * Anti-kill
 * Crashes victim pc on task completion
