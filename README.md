@@ -13,7 +13,7 @@
 <p align="center">
 <a href="https://twitter.com/exploitblizzard" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" alt="exploitblizzard" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uckf4ihtdsy-cmgvphlhl50a" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/youtube.svg" alt="https://www.youtube.com/channel/uckf4ihtdsy-cmgvphlhl50a" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.com/invite/N52JqGb" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/discord.svg" alt="https://discord.com/invite/N52JqGb" height="30" width="40" /></a>
+<a href="https://discord.gg/MJjwryfX9B" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/discord.svg" alt="https://discord.com/invite/N52JqGb" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages & Tools used:</h3>
