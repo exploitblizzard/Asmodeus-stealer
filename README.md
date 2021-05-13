@@ -20,9 +20,8 @@
 <p align="center"> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="dropbox" width="40" height="40"/> </a> <a href="https://www.dropbox.com/developers/documentation/http/documentation" target="_blank"> <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/dropbox.svg" alt="csharp" width="40" height="40"/> </a> </p>
 
 # 💭 Must Read
-<b>The release containing source code and binary is password protected, to get the password and usage details. Dm me on discord or telegram [![Telegram](https://img.shields.io/badge/Telegram-@systembinarne-2CA5E0?logo=telegram)](https://t.me/systembinarne) </b>
+<b>I have made the complete project online (stealer v1.1 (pazuzu)). Dm me on discord </b>
 <br> </br>
-<i><b> I have not included the complete project, because of plagiarism and script-kiddies. </b></i> 
 
 ***
 
