@@ -20,7 +20,7 @@
 <p align="center"> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="dropbox" width="40" height="40"/> </a> <a href="https://www.dropbox.com/developers/documentation/http/documentation" target="_blank"> <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/dropbox.svg" alt="csharp" width="40" height="40"/> </a> </p>
 
 # 💭 Must Read
-<b>I have made the complete project online asmodeus stealer v1.1 (pazuzu). Join me on discord </b>
+<b>I have made the complete project online asmodeus stealer v1.1 (pazuzu). Do join our discord server </b>
 <br> </br>
 
 ***
