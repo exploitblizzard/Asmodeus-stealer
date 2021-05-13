@@ -20,7 +20,7 @@
 <p align="center"> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="dropbox" width="40" height="40"/> </a> <a href="https://www.dropbox.com/developers/documentation/http/documentation" target="_blank"> <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/dropbox.svg" alt="csharp" width="40" height="40"/> </a> </p>
 
 # 💭 Must Read
-<b>I have made the complete project online (stealer v1.1 (pazuzu)). Dm me on discord </b>
+<b>I have made the complete project online asmodeus stealer v1.1 (pazuzu). Join me on discord </b>
 <br> </br>
 
 ***
@@ -38,11 +38,13 @@ By using this software, you automatically agree to the above.
 * Telegram sessions - hijack victim's telegram account
 * Chromium based browsers password
 * Gecko based browsers(firefox) password
+* Chrome Cookies
+* Stored Credit Cards in Chrome
+* Firefox cookies
 * Discord Tokens
-* Anti-kill
-* Crashes victim pc on task completion
-* Fully Undetectable
-* Sends stealed data over drobox and tokens over discord   
+* Task Scheduler runs every day
+* Auto startup
+* Get results over discord & token over discord   
 
 ***
 
@@ -52,6 +54,5 @@ By using this software, you automatically agree to the above.
 ***
 
 # 🔜 Upcoming features
-* Autorun
 * Defender control v1.8 / defender inject feature
 * Fusion with any RAT or Converting this into RAT 😈  
